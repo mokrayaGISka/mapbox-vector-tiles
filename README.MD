@@ -13,4 +13,4 @@ You need to add mapbox token on line 26 in index.html
 # Useful links  
 Mapbox GL JS API - https://docs.mapbox.com/mapbox-gl-js/api/  
 Installing Geoserver Vector tiles extension - https://docs.geoserver.org/stable/en/user/extensions/vectortiles/install.html  
-Publishing a GeoServer Layer for use with Mapbox Styles - https://docs.geoserver.org/latest/en/user/styling/mbstyle/source.html  
+Publishing a GeoServer Layer with Mapbox Styles - https://docs.geoserver.org/latest/en/user/styling/mbstyle/source.html  
