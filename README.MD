@@ -5,7 +5,7 @@ An example of adding vector tiles on leaflet map using mapbox
 [![Demo](https://img.youtube.com/vi/YTUHT1OsAYQ/0.jpg)](https://www.youtube.com/watch?v=YTUHT1OsAYQ&list=PLbozJClxFQYVwDiMJ6GKAT8FoibAD9-q8&index=10) 
 
 ## Live Demo: 
-[![Demo](https://img.youtube.com/vi/YTUHT1OsAYQ/0.jpg)](http://193.124.190.244/vectorlayers/) 
+[![Demo](https://img.youtube.com/vi/YTUHT1OsAYQ/0.jpg)](http://194.58.104.84/vectorlayers/) 
 
 # Dependencies  
 You need to add mapbox token on line 26 in index.html
